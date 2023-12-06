@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/vhuyloc/IdeaProjects/de_demo/src/main/scala/example/PrintArgs.scala:35:19: ';' expected but ':' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    jdbc:sqlserver://demosynap.sql.azuresynapse.net:1433;database=dedicatedSQLpool;[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
